@@ -1,4 +1,5 @@
 /***
+Yijun Zhang
 1.	Create a stored procedure named spPriceRange that accepts two optional parameters. 
 The procedure should return a result set consisting of Product Id, Product Name, Product Description, 
 and List Price from the product and product description tables for each product within the price range, 
